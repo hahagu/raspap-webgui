@@ -33,7 +33,8 @@ function RPiVersion() {
     '900093' => 'PiZero 1.3',
     '9000c1' => 'PiZero W',
     'a02082' => 'Pi 3 Model B',
-    'a22082' => 'Pi 3 Model B'
+    'a22082' => 'Pi 3 Model B',
+    'a020d3' => 'Pi 3 Model B+'
   );
 
   $cpuinfo_array = '';
